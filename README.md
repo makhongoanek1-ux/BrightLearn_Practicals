@@ -1,4 +1,4 @@
-# SQL Data Analytics Portfolio
+# SQL Learning & Practical Projects
 
 ## 📌 Overview
 This repository contains my SQL learning journey and practical projects completed using:
